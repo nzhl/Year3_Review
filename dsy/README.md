@@ -36,7 +36,7 @@ Each computer/network can fail independently, perhaps undetectably.
 + concurrency
 + transparency  ( maybe hide some errors which are not that important, giving the appearance of simplicity to users and applications ) :
 
-![屏幕快照 2017-05-05 13.59.18](../images/屏幕快照 2017-05-05 13.59.18.png)
+![屏幕快照 2017-05-05 13.59.18](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-05%2013.59.18.png)
 
 + quality of service (reliability and performance)
 
