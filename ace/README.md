@@ -15,5 +15,30 @@ What are data-structure ?
 
 
 
+How to study the running-time of an alogorithm ?
 
+Limitation of experiments :
+
+1. must implement algorithm first
+2. can not include every input
+3. must use the same hareware and software while comparing two algorithm
+
+Limitation of Theory :
+
+1. must set up theory first
+2. may ignore some corner case
+
+**So need to combine the experiment and theory.**
+
+
+
+Theory analysis :
+
+![屏幕快照 2017-05-12 20.10.51](../images/屏幕快照 2017-05-12 20.10.51.png)
+
+![屏幕快照 2017-05-12 20.11.05](../images/屏幕快照 2017-05-12 20.11.05.png)
+
+![屏幕快照 2017-05-12 20.24.26](../images/屏幕快照 2017-05-12 20.24.26.png)
+
+![屏幕快照 2017-05-12 20.28.11](../images/屏幕快照 2017-05-12 20.28.11.png)
 
