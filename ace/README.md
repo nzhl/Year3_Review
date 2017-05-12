@@ -34,11 +34,11 @@ Limitation of Theory :
 
 Theory analysis :
 
-![屏幕快照 2017-05-12 20.10.51](../images/屏幕快照 2017-05-12 20.10.51.png)
+![屏幕快照%202017-05-12%2020.10.51](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2020.10.51.png)
 
-![屏幕快照 2017-05-12 20.11.05](../images/屏幕快照 2017-05-12 20.11.05.png)
+![屏幕快照%202017-05-12%2020.11.05](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2020.11.05.png)
 
-![屏幕快照 2017-05-12 20.24.26](../images/屏幕快照 2017-05-12 20.24.26.png)
+![屏幕快照%202017-05-12%2020.24.26](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2020.24.26.png)
 
-![屏幕快照 2017-05-12 20.28.11](../images/屏幕快照 2017-05-12 20.28.11.png)
+![屏幕快照%202017-05-12%2020.28.11](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2020.28.11.png)
 
