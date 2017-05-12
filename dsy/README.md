@@ -76,4 +76,67 @@ status code : 404 Not Found, 304 Not Modified
 
 
 
+### Modelling Distributed System
+
+![屏幕快照%202017-05-12%2021.56.25](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2021.56.25.png)
+
+#### Physical Model
+
+![屏幕快照%202017-05-12%2021.56.08](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2021.56.08.png)
+
+![屏幕快照%202017-05-12%2021.57.20](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2021.57.20.png)
+
+#### Architectural models
+
+![屏幕快照%202017-05-12%2022.02.47](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2022.02.47.png)
+
+#### Communicating entities 
+
+![屏幕快照%202017-05-12%2022.06.16](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2022.06.16.png)
+
+![屏幕快照%202017-05-12%2022.11.03](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2022.11.03.png)
+
+#### Communication Paradigm
+
+![屏幕快照%202017-05-12%2022.13.38](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2022.13.38.png)
+
+![屏幕快照%202017-05-12%2022.14.25](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2022.14.25.png)
+
+![屏幕快照%202017-05-12%2022.15.51](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2022.15.51.png)
+
+![屏幕快照%202017-05-12%2022.19.34](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2022.19.34.png)
+
+#### The entities and paradigms in summary
+
+![屏幕快照%202017-05-12%2022.22.34](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2022.22.34.png)
+
+#### Role and Responsibility
+
+![屏幕快照%202017-05-12%2022.30.39](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2022.30.39.png)
+
+![屏幕快照%202017-05-12%2022.31.05](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2022.31.05.png)
+
+### Placement
+
+![屏幕快照%202017-05-12%2023.12.47](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2023.12.47.png)
+
+#### Some common placement strategies
+
+![屏幕快照%202017-05-12%2023.13.13](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2023.13.13.png)
+
+### Architectual patterns
+
+Some common strategies 
+
+![屏幕快照%202017-05-12%2023.15.21](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2023.15.21.png)
+
+![屏幕快照%202017-05-12%2023.15.41](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2023.15.41.png)
+
+![屏幕快照%202017-05-12%2023.18.12](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2023.18.12.png)
+
+![屏幕快照%202017-05-12%2023.17.28](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2023.17.28.png)
+
+![屏幕快照%202017-05-12%2023.17.31](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2023.17.31.png)
+
+![屏幕快照%202017-05-12%2023.18.01](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2023.18.01.png)
 
