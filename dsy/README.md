@@ -36,7 +36,7 @@ Each computer/network can fail independently, perhaps undetectably.
 + concurrency
 + transparency  ( maybe hide some errors which are not that important, giving the appearance of simplicity to users and applications ) :
 
-![屏幕快照 2017-05-05 13.59.18](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-05%2013.59.18.png)
+![屏幕快照 2017-05-05 13.59.18](https://raw.githubusercontent.com/nzhl/review/masthttps://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-05%2013.59.18.png)
 
 + quality of service (reliability and performance)
 
@@ -50,9 +50,9 @@ a client-server style open distributed system based on standardized protocols an
 
 `protocol://computer_name:port/document_name?parameters`
 
-![屏幕快照 2017-05-05 14.04.34](../images/屏幕快照 2017-05-05 14.04.34.png)
+![屏幕快照 2017-05-05 14.04.34](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照 2017-05-05 14.04.34.png)
 
-![屏幕快照 2017-05-05 14.48.24](../images/屏幕快照 2017-05-05 14.48.24.png)
+![屏幕快照 2017-05-05 14.48.24](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照 2017-05-05 14.48.24.png)
 
 #### HTTP
 
@@ -60,9 +60,9 @@ a client-server style open distributed system based on standardized protocols an
 
 Textual request-response protocol, e.g. GET, POST
 
-![屏幕快照 2017-05-05 14.49.33](../images/屏幕快照 2017-05-05 14.49.33.png)
+![屏幕快照 2017-05-05 14.49.33](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照 2017-05-05 14.49.33.png)
 
-![屏幕快照 2017-05-05 14.49.26](../images/屏幕快照 2017-05-05 14.49.26.png)
+![屏幕快照 2017-05-05 14.49.26](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照 2017-05-05 14.49.26.png)
 
 status code : 404 Not Found, 304 Not Modified
 
