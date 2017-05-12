@@ -1,6 +1,5 @@
 #!/usr/local/bin/lua
 
-
 local subject_name_list = {"ace", "dsy"};
 
 local function get_path(subject_name)
