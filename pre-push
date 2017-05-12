@@ -1,0 +1,27 @@
+#!/usr/local/bin/lua
+
+
+local subject_name_list = {"ace", "dsy"};
+
+local function get_path(subject_name)
+    return "/Users/nzhl/docker/review/" .. subject_name .. "/README.md";
+end
+
+
+for _,each in ipairs(subject_name_list) do
+    local input_file = io.open(get_path(each), "r");
+    local output_file = io.open(get_path(each) .. ".temp", "w+");
+
+    for line in input_file:lines("*L") do
+        if string.find(line, "%.%./images/") then
+            line = string.gsub(line, "%.%./images/","https://raw.githubusercontent.com/nzhl/review/master/images/" )
+            line = string.gsub(line, " ", "%%20")
+        end
+        output_file:write(line);
+    end
+
+    input_file:close()
+    output_file:close()
+    os.execute("rm " .. get_path(each))
+    os.execute("mv " .. get_path(each)  .. ".temp".. " " .. get_path(each))
+end
