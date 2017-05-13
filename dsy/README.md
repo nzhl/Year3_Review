@@ -144,67 +144,67 @@ Some common strategies
 
 ### Interaction models
 
-![屏幕快照 2017-05-13 20.01.25](../images/屏幕快照 2017-05-13 20.01.25.png)
+![屏幕快照%202017-05-13%2020.01.25](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.01.25.png)
 
 #### Distrubuted Algorithm
 
-![屏幕快照 2017-05-13 20.03.48](../images/屏幕快照 2017-05-13 20.03.48.png)
+![屏幕快照%202017-05-13%2020.03.48](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.03.48.png)
 
 #### Performance of communication channels
 
-![屏幕快照 2017-05-13 20.06.43](../images/屏幕快照 2017-05-13 20.06.43.png)
+![屏幕快照%202017-05-13%2020.06.43](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.06.43.png)
 
 #### Computer Clock and Timing Event
 
 ##### Synchronous Distributed System
 
-![屏幕快照 2017-05-13 20.11.09](../images/屏幕快照 2017-05-13 20.11.09.png)
+![屏幕快照%202017-05-13%2020.11.09](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.11.09.png)
 
 #### Asynchronous Distributed System
 
-![屏幕快照 2017-05-13 20.11.09](../images/屏幕快照 2017-05-13 20.11.09.png)
+![屏幕快照%202017-05-13%2020.11.09](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.11.09.png)
 
 #### Event Ordering
 
-![屏幕快照 2017-05-13 20.23.39](../images/屏幕快照 2017-05-13 20.23.39.png)
+![屏幕快照%202017-05-13%2020.23.39](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.23.39.png)
 
-![屏幕快照 2017-05-13 20.23.18](../images/屏幕快照 2017-05-13 20.23.18.png)
+![屏幕快照%202017-05-13%2020.23.18](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.23.18.png)
 
-![屏幕快照 2017-05-13 20.23.56](../images/屏幕快照 2017-05-13 20.23.56.png)
+![屏幕快照%202017-05-13%2020.23.56](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.23.56.png)
 
 ### Failure Model
 
-![屏幕快照 2017-05-13 20.26.26](../images/屏幕快照 2017-05-13 20.26.26.png)
+![屏幕快照%202017-05-13%2020.26.26](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.26.26.png)
 
 #### Process Omission Failure
 
-![屏幕快照 2017-05-13 20.27.21](../images/屏幕快照 2017-05-13 20.27.21.png)
+![屏幕快照%202017-05-13%2020.27.21](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.27.21.png)
 
 #### Communication Omission Failure
 
-![屏幕快照 2017-05-13 20.38.01](../images/屏幕快照 2017-05-13 20.38.01.png)
+![屏幕快照%202017-05-13%2020.38.01](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.38.01.png)
 
 #### Arbitrary Failure
 
-![屏幕快照 2017-05-13 20.39.57](../images/屏幕快照 2017-05-13 20.39.57.png)
+![屏幕快照%202017-05-13%2020.39.57](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.39.57.png)
 
-![屏幕快照 2017-05-13 20.42.25](../images/屏幕快照 2017-05-13 20.42.25.png)
+![屏幕快照%202017-05-13%2020.42.25](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.42.25.png)
 
 #### Timing Failure
 
-![屏幕快照 2017-05-13 20.45.07](../images/屏幕快照 2017-05-13 20.45.07.png)
+![屏幕快照%202017-05-13%2020.45.07](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.45.07.png)
 
 #### Failure Detection
 
-![屏幕快照 2017-05-13 20.47.40](../images/屏幕快照 2017-05-13 20.47.40.png)
+![屏幕快照%202017-05-13%2020.47.40](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.47.40.png)
 
 #### Masking Failure
 
-![屏幕快照 2017-05-13 20.49.52](../images/屏幕快照 2017-05-13 20.49.52.png)
+![屏幕快照%202017-05-13%2020.49.52](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.49.52.png)
 
 #### Reliable one-to-one Communication
 
-![屏幕快照 2017-05-13 20.51.54](../images/屏幕快照 2017-05-13 20.51.54.png)
+![屏幕快照%202017-05-13%2020.51.54](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.51.54.png)
 
 
 
