@@ -74,19 +74,17 @@ status code : 404 Not Found, 304 Not Modified
 + any form of information can be transpoted (eg. Javascript)
 
 
-
-
-### Modelling Distributed System
+## Modelling Distributed System
 
 ![屏幕快照%202017-05-12%2021.56.25](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2021.56.25.png)
 
-#### Physical Model
+### Physical Model
 
 ![屏幕快照%202017-05-12%2021.56.08](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2021.56.08.png)
 
 ![屏幕快照%202017-05-12%2021.57.20](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2021.57.20.png)
 
-#### Architectural models
+### Architectural models
 
 ![屏幕快照%202017-05-12%2022.02.47](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2022.02.47.png)
 
@@ -139,4 +137,74 @@ Some common strategies
 ![屏幕快照%202017-05-12%2023.17.31](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2023.17.31.png)
 
 ![屏幕快照%202017-05-12%2023.18.01](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2023.18.01.png)
+
+## Fundamental models
+
+> contain only the essential elements to allow us to reason about some aspects of the system 
+
+### Interaction models
+
+![屏幕快照 2017-05-13 20.01.25](../images/屏幕快照 2017-05-13 20.01.25.png)
+
+#### Distrubuted Algorithm
+
+![屏幕快照 2017-05-13 20.03.48](../images/屏幕快照 2017-05-13 20.03.48.png)
+
+#### Performance of communication channels
+
+![屏幕快照 2017-05-13 20.06.43](../images/屏幕快照 2017-05-13 20.06.43.png)
+
+#### Computer Clock and Timing Event
+
+##### Synchronous Distributed System
+
+![屏幕快照 2017-05-13 20.11.09](../images/屏幕快照 2017-05-13 20.11.09.png)
+
+#### Asynchronous Distributed System
+
+![屏幕快照 2017-05-13 20.11.09](../images/屏幕快照 2017-05-13 20.11.09.png)
+
+#### Event Ordering
+
+![屏幕快照 2017-05-13 20.23.39](../images/屏幕快照 2017-05-13 20.23.39.png)
+
+![屏幕快照 2017-05-13 20.23.18](../images/屏幕快照 2017-05-13 20.23.18.png)
+
+![屏幕快照 2017-05-13 20.23.56](../images/屏幕快照 2017-05-13 20.23.56.png)
+
+### Failure Model
+
+![屏幕快照 2017-05-13 20.26.26](../images/屏幕快照 2017-05-13 20.26.26.png)
+
+#### Process Omission Failure
+
+![屏幕快照 2017-05-13 20.27.21](../images/屏幕快照 2017-05-13 20.27.21.png)
+
+#### Communication Omission Failure
+
+![屏幕快照 2017-05-13 20.38.01](../images/屏幕快照 2017-05-13 20.38.01.png)
+
+#### Arbitrary Failure
+
+![屏幕快照 2017-05-13 20.39.57](../images/屏幕快照 2017-05-13 20.39.57.png)
+
+![屏幕快照 2017-05-13 20.42.25](../images/屏幕快照 2017-05-13 20.42.25.png)
+
+#### Timing Failure
+
+![屏幕快照 2017-05-13 20.45.07](../images/屏幕快照 2017-05-13 20.45.07.png)
+
+#### Failure Detection
+
+![屏幕快照 2017-05-13 20.47.40](../images/屏幕快照 2017-05-13 20.47.40.png)
+
+#### Masking Failure
+
+![屏幕快照 2017-05-13 20.49.52](../images/屏幕快照 2017-05-13 20.49.52.png)
+
+#### Reliable one-to-one Communication
+
+![屏幕快照 2017-05-13 20.51.54](../images/屏幕快照 2017-05-13 20.51.54.png)
+
+
 
