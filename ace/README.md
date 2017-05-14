@@ -70,5 +70,47 @@ Limitation of Theory :
 
 ![屏幕快照%202017-05-12%2021.15.05](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2021.15.05.png)
 
+![屏幕快照%202017-05-14%2020.48.05](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2020.48.05.png)
 
+### Big O usage for algorithms
+
+![屏幕快照%202017-05-14%2020.50.36](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2020.50.36.png)
+
+###%20Asymptotic%20analysis![屏幕快照%202017-05-14%2020.56.01](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2020.56.01.png)
+
+### Big  Omega
+
+![屏幕快照%202017-05-14%2020.58.36](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2020.58.36.png)
+
+![屏幕快照%202017-05-14%2021.24.35](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2021.24.35.png)
+
+#### Link Big-O and Big-Omega 
+
+![屏幕快照%202017-05-14%2021.28.46](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2021.28.46.png)
+
+### Omega Usage
+
+![屏幕快照%202017-05-14%2021.39.28](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2021.39.28.png)
+
+### Big-Theta 
+
+![屏幕快照%202017-05-14%2021.43.36](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2021.43.36.png)
+
+![屏幕快照%202017-05-14%2021.45.23](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2021.45.23.png)
+
+### Little O
+
+![屏幕快照%202017-05-14%2021.47.38](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2021.47.38.png)
+
+#### An example
+
+![屏幕快照%202017-05-14%2021.49.10](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2021.49.10.png)
+
+#### Useage of above
+
+![屏幕快照%202017-05-14%2022.00.58](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2022.00.58.png)
+
+#### Definition may differ  
+
+![屏幕快照%202017-05-14%2022.07.37](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2022.07.37.png)
 
