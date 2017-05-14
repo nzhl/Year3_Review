@@ -264,5 +264,49 @@ Some common strategies
 
 ![屏幕快照%202017-05-14%2014.23.09](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2014.23.09.png) 
 
+## Interprocess communication
 
+### Sockets and addresse
+
+#### Sockets
+
+![屏幕快照%202017-05-14%2016.34.46](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2016.34.46.png) 
+
+
+
+![屏幕快照%202017-05-14%2016.46.11](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2016.46.11.png)
+
+#### Message Destination
+
+ ![屏幕快照%202017-05-14%2016.56.31](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2016.56.31.png) 
+
+#### Address resolution
+
+![屏幕快照%202017-05-14%2016.57.02](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2016.57.02.png)
+
+
+
+### UDP datagram communication
+
+![屏幕快照%202017-05-14%2019.20.27](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2019.20.27.png)
+
+![屏幕快照%202017-05-14%2019.22.16](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2019.22.16.png)
+
+### TCP stream communication
+
+![屏幕快照%202017-05-14%2019.25.51](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2019.25.51.png)
+
+![屏幕快照%202017-05-14%2019.26.09](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2019.26.09.png)
+
+
+
+### External data representation and marshalling
+
+![屏幕快照%202017-05-14%2019.39.45](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2019.39.45.png) 
+
+#### Multicast Communication
+
+![屏幕快照%202017-05-14%2019.44.54](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2019.44.54.png)
+
+![屏幕快照%202017-05-14%2020.00.46](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2020.00.46.png)
 
