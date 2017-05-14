@@ -142,9 +142,9 @@ Some common strategies
 
 > contain only the essential elements to allow us to reason about some aspects of the system 
 
-### Interaction models
-
 ![屏幕快照%202017-05-13%2020.01.25](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.01.25.png)
+
+### Interaction models
 
 #### Distrubuted Algorithm
 
@@ -206,5 +206,57 @@ Some common strategies
 
 ![屏幕快照%202017-05-13%2020.51.54](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.51.54.png)
 
+## Networking and Internet
 
+![屏幕快照%202017-05-13%2021.12.12](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2021.12.12.png)
+
+#### Typical Network Protocol stack
+
+![屏幕快照%202017-05-13%2021.14.03](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2021.14.03.png)
+
+#### Physical Perspective(layer 1 / 2)
+
+![屏幕快照%202017-05-13%2021.30.23](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2021.30.23.png)
+
+![屏幕快照%202017-05-14%2013.43.19](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2013.43.19.png)
+
+#### Layer 3 Perspective
+
+![屏幕快照%202017-05-13%2021.34.16](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2021.34.16.png)
+
+![屏幕快照%202017-05-13%2021.43.27](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2021.43.27.png)
+
+![屏幕快照%202017-05-14%2013.42.00](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2013.42.00.png)
+
+
+
+### Layer 4 perspective : transport
+
+####%20TCP%20and%20UDP%20:%20Streams%20and%20Messages![屏幕快照%202017-05-14%2013.39.12](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2013.39.12.png)
+
+![屏幕快照%202017-05-14%2013.44.05](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2013.44.05.png)
+
+### Layer 5 example :
+
+#### DNS : the domain name system
+
+![屏幕快照%202017-05-14%2013.52.58](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2013.52.58.png)
+
+#### DHCP
+
+![屏幕快照%202017-05-14%2013.57.47](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2013.57.47.png)
+
+####%20Revisit%20www%20example![屏幕快照%202017-05-14%2013.59.59](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2013.59.59.png)
+
+![屏幕快照%202017-05-14%2014.03.03](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2014.03.03.png)
+
+### NAT and firewalls
+
+![屏幕快照%202017-05-14%2014.15.22](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2014.15.22.png)
+
+#### Network issue for distrubuted system
+
+![屏幕快照%202017-05-14%2014.23.03](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2014.23.03.png)
+
+![屏幕快照%202017-05-14%2014.23.09](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2014.23.09.png)
 
