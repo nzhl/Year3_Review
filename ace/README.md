@@ -70,13 +70,17 @@ Limitation of Theory :
 
 ![屏幕快照%202017-05-12%2021.15.05](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-12%2021.15.05.png)
 
-![屏幕快照%202017-05-14%2020.48.05](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2020.48.05.png)
+
+
+![1](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2020.48.05.png) 
 
 ### Big O usage for algorithms
 
-![屏幕快照%202017-05-14%2020.50.36](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2020.50.36.png)
+![2](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2020.50.36.png)
 
-###%20Asymptotic%20analysis![屏幕快照%202017-05-14%2020.56.01](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2020.56.01.png)
+###Asymptotic analysis
+
+![屏幕快照%202017-05-14%2020.56.01](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2020.56.01.png)
 
 ### Big  Omega
 
@@ -113,4 +117,44 @@ Limitation of Theory :
 #### Definition may differ  
 
 ![屏幕快照%202017-05-14%2022.07.37](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2022.07.37.png)
+
+
+
+### Abstract Data Type
+
+![屏幕快照 2017-05-16 13.20.26](../images/屏幕快照 2017-05-16 13.20.26.png)
+
+### Concrete Data Types
+
+![屏幕快照 2017-05-16 13.22.13](../images/屏幕快照 2017-05-16 13.22.13.png)
+
+### Structure and Efficiency
+
+![屏幕快照 2017-05-16 13.23.10](../images/屏幕快照 2017-05-16 13.23.10.png)
+
+### Example from old exam
+
+![屏幕快照 2017-05-16 13.34.17](../images/屏幕快照 2017-05-16 13.34.17.png)
+
+### The Stack ADT
+
+![屏幕快照 2017-05-16 13.37.51](../images/屏幕快照 2017-05-16 13.37.51.png)
+
+#### Array Based 
+
+![屏幕快照 2017-05-16 13.47.09](../images/屏幕快照 2017-05-16 13.47.09.png)
+
+### The Queue ADT
+
+![屏幕快照 2017-05-16 13.50.47](../images/屏幕快照 2017-05-16 13.50.47.png)
+
+#### Array Based
+
+![屏幕快照 2017-05-16 14.43.16](../images/屏幕快照 2017-05-16 14.43.16.png)
+
+### Useage Example
+
+#### Parentheses Matching
+
+![屏幕快照 2017-05-16 14.48.01](../images/屏幕快照 2017-05-16 14.48.01.png)
 
