@@ -11,12 +11,12 @@ for _,each in ipairs(subject_name_list) do
     local input_file = io.open(get_path(each), "r");
     local output_file = io.open(get_path(each) .. ".temp", "w+");
 
-    for line in input_file:lines("*L") do
+    for line in input_file:lines("*l") do
         if string.find(line, "%.%./images/") then
             line = string.gsub(line, "%.%./images/","https://raw.githubusercontent.com/nzhl/review/master/images/" )
             line = string.gsub(line, " ", "%%20")
         end
-        output_file:write(line);
+        output_file:write(line .. " \n");
     end
 
     input_file:close()
