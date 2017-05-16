@@ -122,39 +122,39 @@ Limitation of Theory :
 
 ### Abstract Data Type
 
-![屏幕快照 2017-05-16 13.20.26](../images/屏幕快照 2017-05-16 13.20.26.png)
+![屏幕快照%202017-05-16%2013.20.26](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-16%2013.20.26.png)
 
 ### Concrete Data Types
 
-![屏幕快照 2017-05-16 13.22.13](../images/屏幕快照 2017-05-16 13.22.13.png)
+![屏幕快照%202017-05-16%2013.22.13](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-16%2013.22.13.png)
 
 ### Structure and Efficiency
 
-![屏幕快照 2017-05-16 13.23.10](../images/屏幕快照 2017-05-16 13.23.10.png)
+![屏幕快照%202017-05-16%2013.23.10](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-16%2013.23.10.png)
 
 ### Example from old exam
 
-![屏幕快照 2017-05-16 13.34.17](../images/屏幕快照 2017-05-16 13.34.17.png)
+![屏幕快照%202017-05-16%2013.34.17](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-16%2013.34.17.png)
 
 ### The Stack ADT
 
-![屏幕快照 2017-05-16 13.37.51](../images/屏幕快照 2017-05-16 13.37.51.png)
+![屏幕快照%202017-05-16%2013.37.51](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-16%2013.37.51.png)
 
 #### Array Based 
 
-![屏幕快照 2017-05-16 13.47.09](../images/屏幕快照 2017-05-16 13.47.09.png)
+![屏幕快照%202017-05-16%2013.47.09](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-16%2013.47.09.png)
 
 ### The Queue ADT
 
-![屏幕快照 2017-05-16 13.50.47](../images/屏幕快照 2017-05-16 13.50.47.png)
+![屏幕快照%202017-05-16%2013.50.47](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-16%2013.50.47.png)
 
 #### Array Based
 
-![屏幕快照 2017-05-16 14.43.16](../images/屏幕快照 2017-05-16 14.43.16.png)
+![屏幕快照%202017-05-16%2014.43.16](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-16%2014.43.16.png)
 
 ### Useage Example
 
 #### Parentheses Matching
 
-![屏幕快照 2017-05-16 14.48.01](../images/屏幕快照 2017-05-16 14.48.01.png)
+![屏幕快照%202017-05-16%2014.48.01](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-16%2014.48.01.png)
 
