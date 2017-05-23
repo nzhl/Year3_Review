@@ -249,7 +249,7 @@ Some common strategies
 ![屏幕快照%202017-05-14%2013.59.59](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2013.59.59.png)                  
 ​              
 ![屏幕快照%202017-05-14%2014.03.03](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2014.03.03.png)                   
-​              
+​        
 ### NAT and firewalls                  
 
 ![屏幕快照%202017-05-14%2014.15.22](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2014.15.22.png)                   
@@ -705,6 +705,32 @@ Some common strategies
 ![屏幕快照%202017-05-23%2022.35.13](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-23%2022.35.13.png)
 
 ![屏幕快照%202017-05-23%2022.35.16](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-23%2022.35.16.png)
+
+## Distributed Algorithm
+
+### Fundamental Model
+
+![屏幕快照%202017-05-23%2023.05.18](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-23%2023.05.18.png)
+
+### Distributed Algorithm
+
+![屏幕快照%202017-05-23%2023.08.04](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-23%2023.08.04.png)
+
+#### Assumptions and constraint
+
+![屏幕快照%202017-05-23%2023.09.05](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-23%2023.09.05.png)
+
+#### Synchronous vs asynchronous
+
+![屏幕快照%202017-05-23%2023.12.19](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-23%2023.12.19.png)
+
+#### Thinking about the algorithm
+
+![屏幕快照%202017-05-23%2023.13.23](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-23%2023.13.23.png)
+
+#### Summary
+
+![屏幕快照%202017-05-23%2023.15.38](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-23%2023.15.38.png)
 
 
 
