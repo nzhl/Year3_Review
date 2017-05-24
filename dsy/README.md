@@ -205,12 +205,9 @@ Some common strategies
 ## Networking and Internet                  
 
 ![屏幕快照%202017-05-13%2021.12.12](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2021.12.12.png)                   
-​              
 #### Typical Network Protocol stack                  
 
-![屏幕快照%202017-05-13%2021.14.03](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2021.14.03.png)                  
-​              
-#### Physical Perspective(layer 1 / 2)                  
+![屏幕快照%202017-05-13%2021.14.03](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2021.14.03.png)Physical Perspective(layer 1 / 2)
 
 ![屏幕快照%202017-05-13%2021.30.23](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2021.30.23.png)                   
 ​              
@@ -218,8 +215,7 @@ Some common strategies
 ​              
 #### Layer 3 Perspective                  
 
-![屏幕快照%202017-05-13%2021.34.16](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2021.34.16.png)                  
-​              
+![屏幕快照%202017-05-13%2021.34.16](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2021.34.16.png)                 
 ![屏幕快照%202017-05-13%2021.43.27](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2021.43.27.png)                  
 ​              
 ![屏幕快照%202017-05-14%2013.42.00](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2013.42.00.png)                  
@@ -239,15 +235,12 @@ Some common strategies
 #### DNS : the domain name system                  
 
 ![屏幕快照%202017-05-14%2013.52.58](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2013.52.58.png)                   
-​              
 #### DHCP                  
 
 ![屏幕快照%202017-05-14%2013.57.47](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2013.57.47.png)                   
-​              
 ####Revisit www example                  
 
 ![屏幕快照%202017-05-14%2013.59.59](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2013.59.59.png)                  
-​              
 ![屏幕快照%202017-05-14%2014.03.03](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2014.03.03.png)                   
 ​        
 ### NAT and firewalls                  
@@ -280,8 +273,6 @@ Some common strategies
 
 ![屏幕快照%202017-05-14%2016.57.02](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2016.57.02.png)                  
 ​              
-​                  
-​              
 ### UDP datagram communication                  
 
 ![屏幕快照%202017-05-14%2019.20.27](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2019.20.27.png)                  
@@ -290,8 +281,7 @@ Some common strategies
 ​              
 ### TCP stream communication                  
 
-![屏幕快照%202017-05-14%2019.25.51](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2019.25.51.png)                  
-​              
+![屏幕快照%202017-05-14%2019.25.51](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2019.25.51.png)                
 ![屏幕快照%202017-05-14%2019.26.09](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2019.26.09.png)                  
 ​              
 ​                  
