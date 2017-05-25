@@ -1,31 +1,27 @@
-# Distributed System                  
+# Distributed System
 
-### Definition                  
+### Definition
 
 > A distrubuted system is one in which hardware or software conponents located at **networked computers** communicate and coordinate their actions **only by passing messages**.                  
 
-#### Resources Sharing                  
+#### Resources Sharing
 
-Typically distributed systems are built around sharing of resources, whether physical (printers, computers) or informational (web pages, documents) .                   
-​              
-#### Services                  
+Typically distributed systems are built around sharing of resources, whether physical (printers, computers) or informational (web pages, documents) .
+#### Services
 
-Resources are typically encapsulated and selectively exposed over the network as services.                  
-​              
-### Characteristics                  
+Resources are typically encapsulated and selectively exposed over the network as services.
 
-##### 1. Concurrency :                   
+### Characteristics
 
-Typically all computers in the network are working at the same time.                   
-​              
+##### 1. Concurrency :
+
+Typically all computers in the network are working at the same time.
 ##### 2.No global clock :                  
 
 There are limits to how precisely different computers can synchronise their actions using only messages.                  
-​              
 ##### 3.Independent failures :                  
 
-Each computer/network can fail independently, perhaps undetectably.                  
-​              
+Each computer/network can fail independently, perhaps undetectably.                 
 #### Common challenges                  
 
 + heterogeneity (the system is comprised by different software, computers, network)                  
@@ -35,16 +31,12 @@ Each computer/network can fail independently, perhaps undetectably.
 + failure handling                  
 + concurrency                  
 + transparency  ( maybe hide some errors which are not that important, giving the appearance of simplicity to users and applications ) :                  
-  ​            
   ![屏幕快照%202017-05-05%2013.59.18](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-05%2013.59.18.png)                  
-  ​              
 + quality of service (reliability and performance)                  
-  ​            
 ### World Wide Web                  
 
 a client-server style open distributed system based on standardized protocols and representations.                  
-​              
-#### URL                  
+#### URL
 
 **A syntactic form known as a Uniform Resource Locator (URL) specifies a web page**.                  
 ​              
@@ -721,6 +713,58 @@ Some common strategies
 #### Summary
 
 ![屏幕快照%202017-05-23%2023.15.38](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-23%2023.15.38.png)
+
+## Replication and Fault Tolerance
+
+### Motivation for replication
+
+![屏幕快照%202017-05-25%2013.29.19](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-25%2013.29.19.png)
+
+### Common requirements
+
+![屏幕快照%202017-05-25%2013.33.33](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-25%2013.33.33.png)
+
+### System model for managed replicated data
+
+![屏幕快照%202017-05-25%2013.46.25](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-25%2013.46.25.png)
+
+![屏幕快照%202017-05-25%2013.48.16](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-25%2013.48.16.png)
+
+### Phrases of Request handling
+
+![屏幕快照%202017-05-25%2013.52.27](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-25%2013.52.27.png)
+
+![屏幕快照%202017-05-25%2013.52.42](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-25%2013.52.42.png)
+
+## Security
+
+### security model
+
+![屏幕快照%202017-05-25%2014.31.53](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-25%2014.31.53.png)
+
+![屏幕快照%202017-05-25%2014.32.36](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-25%2014.32.36.png)
+
+![屏幕快照%202017-05-25%2014.32.49](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-25%2014.32.49.png)
+
+![屏幕快照%202017-05-25%2014.36.23](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-25%2014.36.23.png)
+
+### Securing Process Communication
+
+![屏幕快照%202017-05-25%2014.40.27](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-25%2014.40.27.png)
+
+### Several safety technology
+
+![屏幕快照%202017-05-25%2014.43.37](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-25%2014.43.37.png)
+
+### In summary
+
+![屏幕快照%202017-05-25%2014.45.51](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-25%2014.45.51.png)
+
+![屏幕快照%202017-05-25%2014.45.55](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-25%2014.45.55.png)
+
+
+
+## Basically done !
 
 
 
