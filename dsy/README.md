@@ -188,8 +188,7 @@ Some common strategies
 ​              
 #### Masking Failure                  
 
-![屏幕快照%202017-05-13%2020.49.52](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.49.52.png)                  
-​              
+![屏幕快照%202017-05-13%2020.49.52](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.49.52.png)                 ​         
 #### Reliable one-to-one Communication                  
 
 ![屏幕快照%202017-05-13%2020.51.54](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-13%2020.51.54.png)                  
@@ -251,12 +250,8 @@ Some common strategies
 
 #### Sockets                  
 
-![屏幕快照%202017-05-14%2016.34.46](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2016.34.46.png)                   
-​              
-​                  
-​              
-![屏幕快照%202017-05-14%2016.46.11](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2016.46.11.png)                  
-​              
+![屏幕快照%202017-05-14%2016.34.46](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2016.34.46.png)                  
+​![屏幕快照%202017-05-14%2016.46.11](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2016.46.11.png)                            
 #### Message Destination                  
 
  ![屏幕快照%202017-05-14%2016.56.31](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-14%2016.56.31.png)                   
