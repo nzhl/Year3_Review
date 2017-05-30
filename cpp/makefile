@@ -1,11 +1,11 @@
 CXX = g++
 CXXFLAGS = -Wall -std=c++11
-LECS = lecs/lec_0.cpp
+SRCS = lecs/lec_0.cpp
 
 go: main
 	./main
 
-main: main.o $(patsubst %.cpp, %.o, $(LECS))
+main: main.o $(patsubst %.cpp, %.o, $(SRCS))
 	$(CXX) $^ -o $@
 
 main.o: main.cpp review.h
@@ -17,7 +17,3 @@ main.o: main.cpp review.h
 clean:
 	rm -f *.o
 	rm -f lecs/*.o
-
-
-
-
