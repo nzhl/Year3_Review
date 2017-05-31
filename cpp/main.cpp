@@ -8,16 +8,27 @@
 #include <cstdio>
 #include <iostream>
 
-#include "review.h"
+void lec_0();
+void lec_1();
+void lec_2();
+void lec_3();
+void lec_4();
+void lec_5();
+void lec_6();
+void lec_7();
+void lec_8();
+void lec_9();
+void lec_10();
+void lec_11();
+void lec_12();
+void lec_13();
+void lec_14();
+void lec_15();
 
 void go(){
-#ifdef LEC_0_H
     lec_0();
-#endif
 
-#ifdef LEC_1_H
-    void lec_1();
-#endif
+    lec_1();
 
 #ifdef LEC_2_H
     void lec_2();

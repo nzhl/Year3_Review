@@ -8,7 +8,7 @@ go: main
 main: main.o $(patsubst %.cpp, %.o, $(SRCS))
 	$(CXX) $^ -o $@
 
-main.o: main.cpp review.h
+main.o: main.cpp
 	$(CXX) $(CXXFLAGS) -c $<
 
 %.o: %.cpp %.h
