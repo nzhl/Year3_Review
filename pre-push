@@ -1,6 +1,6 @@
 #!/usr/local/bin/lua
 
-local subject_name_list = {"ace", "dsy"};
+local subject_name_list = {"ace", "dsy", "lac"};
 
 local function get_path(subject_name)
     return "/Users/nzhl/docker/review/" .. subject_name .. "/README.md";
