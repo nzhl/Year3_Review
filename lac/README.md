@@ -4,19 +4,19 @@
 
 ### Definition
 
-![屏幕快照 2017-05-31 09.30.02](../images/屏幕快照 2017-05-31 09.30.02.png)
+![屏幕快照%202017-05-31%2009.30.02](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2009.30.02.png)
 
 
 
 ### The Extended Transition Function
 
-![屏幕快照 2017-05-31 09.35.55](../images/屏幕快照 2017-05-31 09.35.55.png)
+![屏幕快照%202017-05-31%2009.35.55](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2009.35.55.png)
 
 
 
 ### The Language of a DFA
 
-![屏幕快照 2017-05-31 09.36.02](../images/屏幕快照 2017-05-31 09.36.02.png)
+![屏幕快照%202017-05-31%2009.36.02](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2009.36.02.png)
 
 
 
@@ -24,19 +24,19 @@
 
 ### Definition
 
-![屏幕快照 2017-05-31 09.38.53](../images/屏幕快照 2017-05-31 09.38.53.png)
+![屏幕快照%202017-05-31%2009.38.53](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2009.38.53.png)
 
 
 
 ### The Extended Transition Function
 
-![屏幕快照 2017-05-31 09.47.58](../images/屏幕快照 2017-05-31 09.47.58.png)
+![屏幕快照%202017-05-31%2009.47.58](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2009.47.58.png)
 
 
 
 ### Language of NFA
 
-![屏幕快照 2017-05-31 09.48.29](../images/屏幕快照 2017-05-31 09.48.29.png)
+![屏幕快照%202017-05-31%2009.48.29](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2009.48.29.png)
 
 
 
@@ -44,21 +44,21 @@
 
 ### Observations
 
-![屏幕快照 2017-05-31 09.51.11](../images/屏幕快照 2017-05-31 09.51.11.png)
+![屏幕快照%202017-05-31%2009.51.11](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2009.51.11.png)
 
-![屏幕快照 2017-05-31 09.51.19](../images/屏幕快照 2017-05-31 09.51.19.png)
+![屏幕快照%202017-05-31%2009.51.19](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2009.51.19.png)
 
 
 
 ### Core Process
 
-![屏幕快照 2017-05-31 09.53.42](../images/屏幕快照 2017-05-31 09.53.42.png)
+![屏幕快照%202017-05-31%2009.53.42](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2009.53.42.png)
 
 
 
 ### NFA and DFA
 
-![屏幕快照 2017-05-31 09.58.25](../images/屏幕快照 2017-05-31 09.58.25.png)
+![屏幕快照%202017-05-31%2009.58.25](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2009.58.25.png)
 
 
 
@@ -68,17 +68,17 @@
 
 ### NFA/DFA <=> Regular Expressions
 
-![屏幕快照 2017-05-31 09.59.44](../images/屏幕快照 2017-05-31 09.59.44.png)
+![屏幕快照%202017-05-31%2009.59.44](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2009.59.44.png)
 
 
 
 ### Syntax
 
-![屏幕快照 2017-05-31 10.01.49](../images/屏幕快照 2017-05-31 10.01.49.png)
+![屏幕快照%202017-05-31%2010.01.49](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2010.01.49.png)
 
-![屏幕快照 2017-05-31 10.04.58](../images/屏幕快照 2017-05-31 10.04.58.png)
+![屏幕快照%202017-05-31%2010.04.58](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2010.04.58.png)
 
-![屏幕快照 2017-05-31 10.05.29](../images/屏幕快照 2017-05-31 10.05.29.png)
+![屏幕快照%202017-05-31%2010.05.29](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2010.05.29.png)
 
 
 
@@ -86,9 +86,9 @@
 
 ### Before Convert
 
-![屏幕快照 2017-05-31 10.17.44](../images/屏幕快照 2017-05-31 10.17.44.png)
+![屏幕快照%202017-05-31%2010.17.44](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2010.17.44.png)
 
-![屏幕快照 2017-05-31 10.17.49](../images/屏幕快照 2017-05-31 10.17.49.png)
+![屏幕快照%202017-05-31%2010.17.49](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2010.17.49.png)
 
 
 
@@ -96,61 +96,61 @@
 
 #### Empty Set
 
-![屏幕快照 2017-05-31 10.19.59](../images/屏幕快照 2017-05-31 10.19.59.png)
+![屏幕快照%202017-05-31%2010.19.59](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2010.19.59.png)
 
 #### Empty Word
 
-![屏幕快照 2017-05-31 10.20.18](../images/屏幕快照 2017-05-31 10.20.18.png)
+![屏幕快照%202017-05-31%2010.20.18](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2010.20.18.png)
 
 #### Single Character
 
-![屏幕快照 2017-05-31 10.21.05](../images/屏幕快照 2017-05-31 10.21.05.png)
+![屏幕快照%202017-05-31%2010.21.05](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2010.21.05.png)
 
 #### E + F
 
-![屏幕快照 2017-05-31 10.42.01](../images/屏幕快照 2017-05-31 10.42.01.png)
+![屏幕快照%202017-05-31%2010.42.01](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2010.42.01.png)
 
-![屏幕快照 2017-05-31 10.42.05](../images/屏幕快照 2017-05-31 10.42.05.png)
+![屏幕快照%202017-05-31%2010.42.05](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2010.42.05.png)
 
 #### EF
 
-![屏幕快照 2017-05-31 10.47.58](../images/屏幕快照 2017-05-31 10.47.58.png)
+![屏幕快照%202017-05-31%2010.47.58](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2010.47.58.png)
 
-![屏幕快照 2017-05-31 10.55.50](../images/屏幕快照 2017-05-31 10.55.50.png)
+![屏幕快照%202017-05-31%2010.55.50](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2010.55.50.png)
 
 
 
-![屏幕快照 2017-05-31 10.56.54](../images/屏幕快照 2017-05-31 10.56.54.png)
+![屏幕快照%202017-05-31%2010.56.54](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2010.56.54.png)
 
-![屏幕快照 2017-05-31 10.56.58](../images/屏幕快照 2017-05-31 10.56.58.png)
+![屏幕快照%202017-05-31%2010.56.58](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2010.56.58.png)
 
 
 
 #### E*
 
-![屏幕快照 2017-05-31 11.04.10](../images/屏幕快照 2017-05-31 11.04.10.png)
+![屏幕快照%202017-05-31%2011.04.10](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2011.04.10.png)
 
-![屏幕快照 2017-05-31 11.04.17](../images/屏幕快照 2017-05-31 11.04.17.png)
+![屏幕快照%202017-05-31%2011.04.17](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2011.04.17.png)
 
-![屏幕快照 2017-05-31 11.05.13](../images/屏幕快照 2017-05-31 11.05.13.png)
+![屏幕快照%202017-05-31%2011.05.13](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2011.05.13.png)
 
 
 
 #### (E)
 
-![屏幕快照 2017-05-31 11.06.43](../images/屏幕快照 2017-05-31 11.06.43.png)
+![屏幕快照%202017-05-31%2011.06.43](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2011.06.43.png)
 
 
 
 ## Non-regular Language
 
-![屏幕快照 2017-05-31 11.23.04](../images/屏幕快照 2017-05-31 11.23.04.png)
+![屏幕快照%202017-05-31%2011.23.04](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2011.23.04.png)
 
-![屏幕快照 2017-05-31 11.24.05](../images/屏幕快照 2017-05-31 11.24.05.png)
+![屏幕快照%202017-05-31%2011.24.05](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2011.24.05.png)
 
-![屏幕快照 2017-05-31 11.23.28](../images/屏幕快照 2017-05-31 11.23.28.png)
+![屏幕快照%202017-05-31%2011.23.28](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2011.23.28.png)
 
-![屏幕快照 2017-05-31 11.25.49](../images/屏幕快照 2017-05-31 11.25.49.png)
+![屏幕快照%202017-05-31%2011.25.49](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2011.25.49.png)
 
 
 
@@ -158,15 +158,15 @@
 
 #### Definition
 
-![屏幕快照 2017-05-31 11.30.10](../images/屏幕快照 2017-05-31 11.30.10.png)
+![屏幕快照%202017-05-31%2011.30.10](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2011.30.10.png)
 
-![屏幕快照 2017-05-31 11.30.23](../images/屏幕快照 2017-05-31 11.30.23.png)
+![屏幕快照%202017-05-31%2011.30.23](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2011.30.23.png)
 
 
 
 #### Example of CFG
 
-![屏幕快照 2017-05-31 11.35.40](../images/屏幕快照 2017-05-31 11.35.40.png)
+![屏幕快照%202017-05-31%2011.35.40](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2011.35.40.png)
 
 
 
@@ -174,31 +174,31 @@
 
 #### Directly derives relation
 
-![屏幕快照 2017-05-31 11.37.30](../images/屏幕快照 2017-05-31 11.37.30.png)
+![屏幕快照%202017-05-31%2011.37.30](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2011.37.30.png)
 
-![屏幕快照 2017-05-31 11.38.47](../images/屏幕快照 2017-05-31 11.38.47.png)
+![屏幕快照%202017-05-31%2011.38.47](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2011.38.47.png)
 
 
 
 #### Derives relation
 
-![屏幕快照 2017-05-31 11.41.39](../images/屏幕快照 2017-05-31 11.41.39.png)
+![屏幕快照%202017-05-31%2011.41.39](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2011.41.39.png)
 
-![屏幕快照 2017-05-31 11.47.37](../images/屏幕快照 2017-05-31 11.47.37.png)
+![屏幕快照%202017-05-31%2011.47.37](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2011.47.37.png)
 
 
 
 ### Context-Free Language
 
-![屏幕快照 2017-05-31 11.50.28](../images/屏幕快照 2017-05-31 11.50.28.png)
+![屏幕快照%202017-05-31%2011.50.28](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2011.50.28.png)
 
-![屏幕快照 2017-05-31 11.52.22](../images/屏幕快照 2017-05-31 11.52.22.png)
+![屏幕快照%202017-05-31%2011.52.22](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2011.52.22.png)
 
 
 
 ### Derivation Tree
 
-![屏幕快照 2017-05-31 11.54.29](../images/屏幕快照 2017-05-31 11.54.29.png)
+![屏幕快照%202017-05-31%2011.54.29](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2011.54.29.png)
 
-![屏幕快照 2017-05-31 11.56.46](../images/屏幕快照 2017-05-31 11.56.46.png)
+![屏幕快照%202017-05-31%2011.56.46](https://raw.githubusercontent.com/nzhl/review/master/images/屏幕快照%202017-05-31%2011.56.46.png)
 
