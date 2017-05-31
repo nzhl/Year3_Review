@@ -1,6 +1,6 @@
 CXX = g++
 CXXFLAGS = -Wall -std=c++11
-SRCS = lecs/lec_0.cpp
+SRCS = $(wildcard lecs/*.cpp)
 
 go: main
 	./main
