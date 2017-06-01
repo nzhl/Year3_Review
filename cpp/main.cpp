@@ -25,10 +25,11 @@ void lec_13();
 void lec_14();
 void lec_15();
 
-void go(){
-    lec_0();
 
-    lec_1();
+void go(){
+    //lec_0();
+
+    //lec_1();
 
 #ifdef LEC_2_H
     void lec_2();

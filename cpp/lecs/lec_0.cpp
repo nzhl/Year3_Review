@@ -1,9 +1,13 @@
 #include <cstdio>
 
+int x = 999;
 
 void lec_0(){
-    printf("\n\n*****************\n");
-    printf(" Framework Init !\n");
-    printf("*****************\n\n");
+   /*
+    * extern int x = 200;
+    * error: 'extern' variable cannot have an initializer
+    */
+    extern int x;
+    printf("%d\n", x);
 }
 
