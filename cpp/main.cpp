@@ -8,6 +8,7 @@
 #include <cstdio>
 #include <iostream>
 
+
 void lec_0();
 void lec_1();
 void lec_2();
@@ -33,15 +34,13 @@ void go(){
 
     //lec_2();
 
-    lec_3();
+    //lec_3();
 
-#ifdef LEC_4_H
-    void lec_4();
-#endif
+    //extern int y;
+    //lec_4();
+    //printf("y is %d\n", y);
 
-#ifdef LEC_5_H
-    void lec_5();
-#endif
+    lec_5();
 
 #ifdef LEC_6_H
     void lec_6();
