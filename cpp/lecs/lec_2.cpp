@@ -23,8 +23,7 @@ void lec_2(){
     //std::cout << max(a++, b++) << std::endl;
 
     for(int i = 0; i < 10; ++i){
-        // warning line
-        //std::cout << a  << ' ' <<  b << ' ' << max(a++, b++) << std::endl;
+        std::cout << a  << ' ' <<  b << ' ' ;
+        std::cout << max(a++, b++) << std::endl;
     }
-
 }
