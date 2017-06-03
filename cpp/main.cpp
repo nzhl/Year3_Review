@@ -31,9 +31,7 @@ void go(){
 
     //lec_1();
 
-#ifdef LEC_2_H
-    void lec_2();
-#endif
+    lec_2();
 
 #ifdef LEC_3_H
     void lec_3();

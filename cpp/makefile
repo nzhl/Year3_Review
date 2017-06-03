@@ -17,3 +17,4 @@ main.o: main.cpp
 clean:
 	rm -f *.o
 	rm -f lecs/*.o
+	rm -f main
