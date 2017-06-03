@@ -40,11 +40,9 @@ void go(){
     //lec_4();
     //printf("y is %d\n", y);
 
-    lec_5();
+    //lec_5();
 
-#ifdef LEC_6_H
-    void lec_6();
-#endif
+    lec_6();
 
 #ifdef LEC_7_H
     void lec_7();
