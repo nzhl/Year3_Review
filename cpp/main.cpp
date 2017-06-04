@@ -71,11 +71,9 @@ void go(){
 
     //lec_17();
 
-    lec_18();
+    //lec_18();
 
-#ifdef LEC_19_H
     void lec_19();
-#endif
 
 #ifdef LEC_20_H
     void lec_20();
