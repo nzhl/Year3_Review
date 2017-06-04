@@ -25,6 +25,11 @@ void lec_12();
 void lec_13();
 void lec_14();
 void lec_15();
+void lec_16();
+void lec_17();
+void lec_18();
+void lec_19();
+void lec_20();
 
 
 void go(){
@@ -60,11 +65,9 @@ void go(){
 
     //lec_14();
 
-    lec_15();
+    //lec_15();
 
-#ifdef LEC_16_H
-    void lec_16();
-#endif
+    lec_16();
 
 #ifdef LEC_17_H
     void lec_17();
