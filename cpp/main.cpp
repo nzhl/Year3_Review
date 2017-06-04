@@ -52,11 +52,9 @@ void go(){
 
     //lec_10();
 
-    void lec_11();
+    //lec_11();
 
-#ifdef LEC_12_H
-    void lec_12();
-#endif
+    lec_12();
 
 #ifdef LEC_13_H
     void lec_13();
